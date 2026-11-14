@@ -25,8 +25,8 @@ As it shown in my GitHub
 Clone the repository:
 
 ```bash
-git clone https://github.com/meriembelaidi/Project_PM25_Huber.git
-cd Project_PM25_Huber
+git clone https://github.com/meriembelaidi/pm25-forecasting-Belaidi-Ayache-Lakel
+cd pm25-forecasting-Belaidi-Ayache-Lakel
 ```
 
 Install the required libraries:
