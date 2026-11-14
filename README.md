@@ -39,7 +39,7 @@ pip install -r requirements.txt
 Run the main Python script:
 
 ```bash
-python Project_PM25.py
+python src/Project_PM25.py
 ```
 ## 7. Methodology
 
