@@ -1,0 +1,27 @@
+[
+    {
+        "fold": 1,
+        "train_size": 5809,
+        "validation_size": 5805
+    },
+    {
+        "fold": 2,
+        "train_size": 11614,
+        "validation_size": 5805
+    },
+    {
+        "fold": 3,
+        "train_size": 17419,
+        "validation_size": 5805
+    },
+    {
+        "fold": 4,
+        "train_size": 23224,
+        "validation_size": 5805
+    },
+    {
+        "fold": 5,
+        "train_size": 29029,
+        "validation_size": 5805
+    }
+]
