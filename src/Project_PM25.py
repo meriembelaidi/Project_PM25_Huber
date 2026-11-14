@@ -19,22 +19,7 @@ from scipy.stats import linregress, ks_2samp
 from statsmodels.stats.diagnostic import acorr_ljungbox
 from scipy.stats import pearsonr, spearmanr
 from sklearn.feature_selection import SelectKBest, f_regression
-import os
 import json
-
-# to get the project root directory automatically
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-# raw data directory
-RAW_DATA_DIR = os.path.join(BASE_DIR, "data", "raw")
-
-# processed data directory
-PROCESSED_DATA_DIR = os.path.join(BASE_DIR, "data", "processed")
-
-RESULTS_DIR = os.path.join(BASE_DIR, "results")
-
-os.makedirs(PROCESSED_DATA_DIR, exist_ok=True)
-os.makedirs(RESULTS_DIR, exist_ok=True)
 
 file_names = ["combined_gee_pm25.csv", "gee_features_daily.csv", "pm25.csv"]
 
