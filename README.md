@@ -44,11 +44,16 @@ Part 1 is done: exploration and preprocessing. Model training, statistical compa
 
 ## Installation
 
-The project was developed with Python 3.10.5.
+Clone the repository:
 
 ```bash
-python -m venv .venv
-python -m pip install -r requirements.txt
+git clone https://github.com/meriembelaidi/Project_PM25_Huber.git
+cd Project_PM25_Huber
+```
+
+Install the required libraries:
+```bash
+pip install -r requirements.txt
 ```
 
 ## Reproduce Part 1
