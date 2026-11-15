@@ -34,14 +34,7 @@ Install the required libraries:
 ```bash
 pip install -r requirements.txt
 ```
-## 6. Running the Project
-
-Run the main Python script:
-
-```bash
-
-```
-## 7. Methodology
+## 6. Methodology
 
 The project includes:
 1. Dataset inspection and exploratory data analysis.
