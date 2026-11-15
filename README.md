@@ -63,6 +63,8 @@ Run from the project root:
 ```bash
 python scripts/run_eda.py
 ```
+soo I try to many times to run code its works for me but there is problem in another pc why? because gee_features_daily.csv doesnt wants to open there for a reason that
+it is 25MB but it works in my spyder
 
 Then open and run `notebooks/01_eda.ipynb` followed by `notebooks/02_timeseries.ipynb` from a fresh kernel. The random seed is 42.
 
