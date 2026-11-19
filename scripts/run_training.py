@@ -28,7 +28,7 @@ def main():
     # LOAD DATA
 
     data_path = (
-        project_dir /"data" / "combined_gee_pm25.csv")
+        project_dir /"data" /"raw" /"combined_gee_pm25.csv")
 
     print("\nLoading data")
 
